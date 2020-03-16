@@ -1,3 +1,4 @@
 Hello ,,, welcome to git
 welcome to github also
 thanks for joining.
+practise the sessions as much as possible.
